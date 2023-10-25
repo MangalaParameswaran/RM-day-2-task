@@ -1,0 +1,1 @@
+Its content about difference between Document and Window.
