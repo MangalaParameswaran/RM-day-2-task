@@ -1,0 +1,17 @@
+Difference between Document and window
+
+Document:
+1- It represent HTML document or web page that is loded in Browser.
+2- It is loded inside a Browser.
+3- All the HTML tags,elements with attribute are the part of Document.
+4- It is a object of window Property.
+5- we acn access the document from Browser window i.e window.document
+6- sytex is  document.propertyname;
+
+Window:
+1- It represent browser window.
+2- It is a very first object taht bloded in the browser.
+3- Browser,function, variables of JS are the part of window.
+4- It is a object of browser.
+5- we can access the window from the window only i.e window.window.
+6- sytex is window.propertyname;
